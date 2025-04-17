@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I’m Rafael Silva-Vergara
 
-<!--
-**RSilvaVNorthNerds/RSilvaVNorthNerds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** · Consultant · System Design Enthusiast  
+🏙️ Based in Vancouver, Canada  
+📨 rafaelsilva@northnerds.com · [rafaelsilvavergara.dev](https://rafaelsilvavergara.dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Lead and scale high-impact SaaS platforms from concept to production  
+- Build developer-first, AI-powered tools that drive performance and automation  
+- Mentor teams and champion clean code, smart system design, and pragmatic devops
+
+---
+
+### 🧠 Recent Highlights
+- **LLM-Powered Compliance Tools** → Built an AI document processor that won a company-wide Hackathon  
+- **Apollo Federation Rollout** → Reduced redundant API calls by 50%, cutting server costs in half  
+- **Event-Driven Systems** → Designed affiliate engines and escrow platforms handling 20K+ events daily  
+- **Next-Gen Frontends** → Led micro-frontend architecture using Piral and React for 100K+ record dashboards
+
+---
+
+### 🛠️ Tech Stack
+`JavaScript/TypeScript` `React` `NextJS` `NodeJS` `Laravel` `Django` `GraphQL` `Docker` `Kubernetes`  
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Kafka` `Terraform` `Azure` `AWS` `Apollo` `CI/CD` `System Design`
+
+---
+
+### 🐾 Side Quests
+When I’m not building platforms, I’m training my Bengal kitten 🐱 [Eevee] to take over the internet.
+
+---
+
+### 📌 Let’s Connect
+- 🧑‍💻 [Portfolio](https://rafaelsilvavergara.dev)  
+- 🐙 [GitHub](https://github.com/RSilvaVNorthNerds)  
+- 🧾 [LinkedIn](https://linkedin.com/in/rafael-silva-vergara)  
+- 💬 Open to collabs, consulting, or just chatting tech!
