@@ -15,7 +15,7 @@
 
 ### 🧠 Recent Highlights
 - **LLM-Powered Compliance Tools** → Built an AI document processor that won a company-wide Hackathon  
-- **Apollo Federation Rollout** → Reduced redundant API calls by 50%, cutting server costs in half  
+- **Equestrian Peer to Peer Marketplace** → Developed a marketplace for horse related services with over 5k users   
 - **Event-Driven Systems** → Designed affiliate engines and escrow platforms handling 20K+ events daily  
 - **Next-Gen Frontends** → Led micro-frontend architecture using Piral and React for 100K+ record dashboards
 
